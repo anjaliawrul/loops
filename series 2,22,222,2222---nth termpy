@@ -1,0 +1,9 @@
+# num=int(input("enter the first number"))
+# str="2"
+# i=0
+# while i<num:
+#     print(str,end=",")
+#     str=str+"2"
+#     i=i+1
+    
+    

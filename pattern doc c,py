@@ -1,0 +1,33 @@
+
+# from re import I
+
+# n=int(input("enter the number"))
+# i=5
+# while i>=1:
+#     j=1
+#     while j>=i:
+#         print(i,end="")
+#         j=j-1
+#     print()
+#     j=j-1
+
+
+# calculator.
+
+# x=int(input("enter the  1st number:"))
+# y=int(input("enter the 2nd number:"))
+# z=input("enter the operator:")
+# if z=='+':
+#     print("sum=",x+y)
+# elif z=='-':
+#     print("difference=",x-y)
+# elif z=='*':
+#     print("product=",x*y)
+# elif z=='%':
+#     print("modilus=",x%y)
+# elif z=='/':
+#     print("division=",x/y)
+# elif z=='//':
+#     print("floor division",x//y)
+# else:
+    #   print("nothing")
